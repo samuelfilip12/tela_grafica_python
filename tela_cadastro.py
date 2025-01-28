@@ -1,5 +1,4 @@
 from tkinter import *
-import banco_de_dados
 
 class TelaCadastro:
     def __init__(self, master):
